@@ -45,9 +45,9 @@ Participants should review the [Assignment Submission Guide](https://github.com/
 
 | Assessment   | Content                            | Due Dates   | 
 |--------------|------------------------------------|--------------|
-| Assignment 1 | Classification (Sessions 1, 2)     | Apr 19 | 
-| Assignment 2 | Regression (Sessions 3, 4)         | Apr 28    |
-| Assignment 3 | Clustering & Resampling (Sessions 5, 6) | May 5   |
+| Assignment 1 | Classification (Sessions 1, 2)     | Apr 21 | 
+| Assignment 2 | Regression (Sessions 3, 4)         | May 3    |
+| Assignment 3 | Clustering & Resampling (Sessions 5, 6) | May 10   |
 
 ### Contacts
 **Questions can be submitted to the _#dc3-help_ channel on Slack**
